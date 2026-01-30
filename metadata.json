@@ -1,0 +1,7 @@
+{
+  "name": "Red de Albergues de Mascotas",
+  "description": "Una plataforma integral para conectar protectores, voluntarios y familias interesadas en la adopción y el bienestar animal en España.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
